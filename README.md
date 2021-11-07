@@ -1,5 +1,5 @@
 # yiteng Api SDK For PHP
-
+ver 1.2.13
 ## `yitengAPI`
 
 `yitengAPI`代码是引用`ThinkPHP`官方推出的统一`API`接口的客户端代码。
